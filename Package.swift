@@ -13,7 +13,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "HelloSDK",
-            url: "https://github.com/sanir/sanirsdk/blob/1.0.0/HelloSDK.zip",
+            url: "https://github.com/user-attachments/files/23542583/HelloSDK.zip",
             checksum: "e4466f33ccc332b3dd63c1a94654ee275eeec74b1035914460d7d0b313c17071"
         )
     ]
